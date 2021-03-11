@@ -1,0 +1,10 @@
+
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×——ø8²‹ö·/
+p	java:S100‰"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŠË“éùÿÿÿÿ8‘¡¿Èÿ.
+\
+java:S3400‹"9Remove this method and declare a constant for this value.(Öå¥—ıÿÿÿÿ8‘¡¿Èÿ.
+j	java:S100$"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û•´Ë8²‹ö·/
+\
+java:S3400„"9Remove this method and declare a constant for this value.(Öå¥—ıÿÿÿÿ8åóÈÿ.
+j	java:S100|"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°ßÁÎ8ıø£Æÿ.
+k	java:S100‚"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€¾—8‘¡¿Èÿ.
